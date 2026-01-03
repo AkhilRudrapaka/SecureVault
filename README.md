@@ -92,8 +92,3 @@ SecureVault/
 - **OTP**: Uses client-side email dispatch for demonstration purposes. In a production environment, OTPs should be generated and sent from the backend to prevent manipulation.
 - **Credentials**: Database credentials in `db.js` should be moved to environment variables (`.env`) for production.
 
-## 📝 License
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-*Created by Rudra for the Cyber Security Lab Project.*
